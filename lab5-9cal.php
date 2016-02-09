@@ -126,7 +126,7 @@ background-image: url("images/m1.jpg");
   elseif ($c >= 30) echo " $c >Middle-aged</i><br/>";
   elseif ($c >= 18) echo " $c >Teens </i><br/>";
   ?>
-  <br>
+
   <?php
   echo "เพศ : <i>  ";
   if ($d == "01.png") echo " หญิง ";
