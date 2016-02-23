@@ -65,6 +65,7 @@ elseif ($cards==$cards)
 echo "</tr>";
 }
 echo "</table>";
+
 ?>
  </body>
 </html>
